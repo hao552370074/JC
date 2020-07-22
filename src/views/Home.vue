@@ -359,7 +359,7 @@ export default {
           color: #34a4ff;
         }
         .span {
-          animation: circleRoate 4s infinite linear;
+          animation: circleRoate 10s infinite ease-in-out;
         }
       }
       &:nth-child(2) {
@@ -369,7 +369,7 @@ export default {
           color: rgb(255, 217, 0);
         }
         .span {
-          animation: circleRoate 2s infinite linear;
+          animation: circleRoate 6s infinite ease-in-out;
         }
       }
     }
@@ -383,8 +383,8 @@ export default {
       border-radius: 50%;
       box-shadow: 0 0 0 10px rgba(2, 2, 2, 0.438), 0 0 0 15px rgb(1, 154, 255),
         0 2px 5px 15px rgba(0, 0, 0, 0.6);
-      animation: circleRoate 2s infinite linear;
-      transition: all 3s ease-out;
+      animation: circleRoate 6s infinite ease-in-out;
+      transition: all 6s ease-out;
       &::before {
         content: "";
         position: absolute;

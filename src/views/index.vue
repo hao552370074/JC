@@ -358,7 +358,7 @@ export default {
       width: 120px;
       height: 120px;
       position: absolute;
-      top: 30%;
+      top: 25%;
       left: 10%;
       i {
         color: aqua;
@@ -368,7 +368,7 @@ export default {
       }
       &:nth-child(1) {
         transition: all 6s ease-in-out;
-        top: 5%;
+        top: 2%;
         left: 40%;
         animation: circleRoateS 8s infinite;
         i {

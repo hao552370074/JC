@@ -182,6 +182,12 @@ export default {
     .Children2 {
       display: flex;
       justify-content: space-evenly;
+      img{
+        width: 40px;
+        margin: 12px 12px;
+        position: absolute;
+        z-index: 9999;;
+      }
       .ptext {
         color: rgb(0, 183, 255);
       }
@@ -331,6 +337,14 @@ export default {
     position: relative;
     display: flex;
     justify-content: space-evenly;
+    img{
+      width: 220px;
+      position: absolute;
+      margin: 150px 0 0 -20px;
+      transform: rotate(35deg);
+      opacity: .4;
+      z-index: -99;
+    }
     p {
       font-size: 20px;
       position: relative;
@@ -344,7 +358,7 @@ export default {
       width: 120px;
       height: 120px;
       position: absolute;
-      top: 40%;
+      top: 30%;
       left: 10%;
       i {
         color: aqua;
@@ -354,7 +368,7 @@ export default {
       }
       &:nth-child(1) {
         transition: all 6s ease-in-out;
-        top: 30%;
+        top: 5%;
         left: 40%;
         animation: circleRoateS 8s infinite;
         i {
@@ -381,7 +395,7 @@ export default {
       width: 120px;
       height: 120px;
       position: absolute;
-      background-color: rgba(19, 44, 112, 0.938);
+      background-color: rgba(19, 48, 112, 0.658);
       border-radius: 50%;
       box-shadow: 0 0 0 10px rgba(2, 2, 2, 0.438), 0 0 0 15px rgb(1, 154, 255),
         0 2px 5px 15px rgba(0, 0, 0, 0.6);
@@ -415,12 +429,15 @@ export default {
 @keyframes circleRoate {
   0% {
     transform: rotate(0deg);
+    background-color: transparent;
   }
   50% {
+    background-color: rgba(225, 0, 255, 0.616);
     transform: rotate(3000deg);
   }
   100% {
     transform: rotate(0);
+    background-color: transparent;
   }
 }
 @keyframes circleRoateS {

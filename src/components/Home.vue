@@ -12,7 +12,9 @@
           </div>
           <div class="Children2">
             <div>
-              <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
+              <img src="../assets/image/SHicon-1.png" alt="">
+              <i style="width:60px;height:60px;display:block;border-radius:50%">
+              </i>
               <span>
                 <p style="font-size:24px" class="ptext">
                   4
@@ -22,6 +24,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-2.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -32,6 +35,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-3.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -91,6 +95,7 @@
           </div>
           <div class="Children2">
             <div>
+              <img src="../assets/image/SHicon-1.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -101,6 +106,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-2.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -111,6 +117,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-3.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -177,6 +184,7 @@
           </div>
           <div class="Children2">
             <div>
+              <img src="../assets/image/SHicon-1.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -187,6 +195,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-2.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -197,6 +206,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-3.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -283,6 +293,7 @@
           </div>
           <div class="Children2">
             <div>
+              <img src="../assets/image/SHicon-1.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -293,6 +304,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-2.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -303,6 +315,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-3.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -360,6 +373,7 @@
           </div>
           <div class="Children2">
             <div>
+              <img src="../assets/image/SHicon-1.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -370,6 +384,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-3.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -380,6 +395,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-3.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -503,6 +519,7 @@
               <br />项目总数
             </p>
             <span class="span"></span>
+            <!-- <img src="../assets/image/jg.png" alt=""> -->
           </div>
           <div>
             <p>
@@ -540,6 +557,7 @@
           </div>
           <div class="Children2">
             <div>
+              <img src="../assets/image/SHicon-1.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -550,6 +568,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-2.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -560,6 +579,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-3.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -682,6 +702,7 @@
           </div>
           <div class="Children2">
             <div>
+              <img src="../assets/image/SHicon-1.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -692,6 +713,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-2.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -702,6 +724,7 @@
               </span>
             </div>
             <div>
+              <img src="../assets/image/SHicon-3.png" alt="">
               <i style="width:60px;height:60px;display:block;border-radius:50%"></i>
               <span>
                 <p style="font-size:24px" class="ptext">
@@ -1350,14 +1373,16 @@ export default {
 .circle {
   width: 100%;
   height: 100%;
+  position: relative;
+  top: -15%;
   background-image: url("../assets/image/map.png");
   background-repeat: no-repeat;
-  background-size: 42%;
+  background-size: 58%;
   background-position: 51% 41px;
   transition: all 5s ease;
   .circleIndex {
-    width: 52%;
-    height: 40%;
+    width: 70%;
+    height: 54%;
     margin: 0 auto;
     animation: circleRoateHome 10s infinite linear;
     background-image: url("../assets/image/lbx.png");
@@ -1369,8 +1394,8 @@ export default {
       margin: 0 auto;
       background-image: url("../assets/image/jt.png");
       background-repeat: no-repeat;
-      background-position: 16px 13px;
-      background-size: 94%;
+      background-position: 10px 18px;;
+      background-size: 95%;
       animation: circleRoateHomeChuildren 15s infinite linear;
       opacity: 0.6;
     }

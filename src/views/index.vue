@@ -46,9 +46,9 @@ export default {
   data() {
     return {
       // 菜单1
-      menu: ["迎评建本", "智慧教学"],
+      menu: ["迎评建本", "智慧教管"],
       // 菜单2
-      menu2: ["智慧教务", "智慧学管"],
+      menu2: ["智慧科研", "智慧学管"],
       // 单击判断1
       Indexs: null,
       // 单击判断2
@@ -302,7 +302,7 @@ export default {
   }
   #tablesX {
     td {
-      height: 41px;
+      height: 40px;
     }
   }
   #tablesX3 {
@@ -441,5 +441,15 @@ export default {
     rgba(19, 22, 192, 0.829),
     rgb(10, 104, 167)
   );
+}
+td span {
+  color: rgb(255, 166, 0);
+}
+td i {
+  color: rgb(0, 255, 170);
+  font-style: normal;
+}
+tr td:last-child {
+  color: #ffffff;
 }
 </style>
